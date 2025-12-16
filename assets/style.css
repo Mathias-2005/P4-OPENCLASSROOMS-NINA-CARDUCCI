@@ -17,36 +17,29 @@ body {
 	padding-block: 30px;
 	align-items: center;
 }
-
 .top-header .name {
 	font-size: 26px;
 }
-
 .nav ul {
 	display: flex;
 	list-style-type: none;
 	font-size: 14px;
 	margin-bottom: 0;
 }
-
 .nav li {
 	padding-inline: 10px;
 }
-
 .nav a {
 	text-decoration: none;
 	color: #000
 }
-
 nav img {
 	width: 20px;
 	height: 20px;
 }
-
 .social-link img {
 	width: 20px;
 }
-
 #about {
 	display: flex;
 	background-color: #F6D2B8;
@@ -54,7 +47,6 @@ nav img {
 	padding-block: 100px;
 	position: relative;
 }
-
 .picture.left::before {
 	content: ' ';
 	background-color: #E5975F;
@@ -65,18 +57,15 @@ nav img {
 	left: 0;
 	z-index: -1;
 }
-
 .picture.left img {
 	width: 100%;
 	height: 100%;
 }
-
 .picture {
 	flex: 1;
 	margin: 0 20px;
 	z-index: 0;
 }
-
 .picture img {
 	width: 100%;
 
@@ -99,21 +88,18 @@ nav img {
 	width: 80%;
 	font-size: 14px;
 }
-
 .title{
 	text-align: center;
 	padding-block: 2em;
 }
-
 .gallery img {
 	width: 100%;
 	height: 100%;
 }
-
 .gallery .nav {
 	justify-content: center;
 }
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+.nav-item .nav-link.active-tag{
 	color: #fff;
 	border-radius:0 ;
 	background-color: #BEB45A;
@@ -122,7 +108,6 @@ nav img {
 	color: #000;
 	cursor: pointer;
 }
-
 .item-column {
 	position: relative;
 	margin-bottom: 0 !important;
@@ -169,7 +154,6 @@ nav img {
 	font-weight: 800;
 	font-size: 22px;
 }
-
 #services {
 	margin: auto;
 	background-color: #A8D5D8 ;
@@ -185,14 +169,12 @@ nav img {
 	left: 0;
 	z-index: 0;
 }
-
 #services .container {
 	justify-content: space-between;
 	display: flex;
 	padding : 2em 0;
 
 }
-
 .service {
 	background-color: white;
 	max-width: 390px;
@@ -204,7 +186,6 @@ nav img {
 	justify-content: space-between;
 	z-index: 1;
 }
-
 #contact {
 	margin: auto;
 	background-color: #D8D3A8 ;
@@ -212,7 +193,6 @@ nav img {
 	padding-inline: 100px;
 	padding-block: 100px;
 }
-
 #contact .container {
 	display: flex;
 }
@@ -226,12 +206,10 @@ nav img {
 	right: 0;
 	z-index: -1;
 }
-
 .picture.right img {
 	width: 100%;
 	height: 85%;
 }
-
 .form-container {
 	flex : 2;
 
@@ -242,7 +220,6 @@ form {
 	width: 70%;
 	align-items: flex-start;
 }
-
 form input {
 	width: 100%;
 	background-color: transparent;
@@ -250,7 +227,6 @@ form input {
 	height: 2.5em;
 	margin-bottom: 20px;
 }
-
 form textarea {
 	width: 100%;
 	background-color: transparent;
