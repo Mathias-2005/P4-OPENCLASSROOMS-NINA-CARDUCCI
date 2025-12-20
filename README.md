@@ -4,7 +4,10 @@
 
 (Projet 4 - Formation en Web Développement - Openclassrooms)
 
-![Uploading USES HTML.svg…]()  ![Uploading USES CSS.svg…]()  ![Uploading USES JS.svg…]()  ![Uploading uses-lighthouse.svg…]()
+![USES HTML](https://github.com/user-attachments/assets/ed3950a8-f594-4113-be53-ea0dae76d379)
+![USES CSS](https://github.com/user-attachments/assets/06fc91fd-ee13-420b-bd28-3f005e137531)
+![USES JS](https://github.com/user-attachments/assets/6cb3b426-b8c9-4dcf-ab15-81f18694bd02)  
+![uses-lighthouse](https://github.com/user-attachments/assets/b48ba57e-62af-460f-bf8f-7bed63134824)
 
 ## Scénario
 
