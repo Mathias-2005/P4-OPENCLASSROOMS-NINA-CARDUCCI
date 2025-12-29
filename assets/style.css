@@ -1,6 +1,7 @@
 body {
 	max-width: 1920px;
 	margin: auto;
+	color: #1a1a1a;
 }
 * {
 	font-family: 'Inter';
@@ -43,6 +44,10 @@ body {
 .carousel-inner img {
 	width: 100%;
 	height: 100%;
+}
+.visually-hidden { /* CONSTRAST ERREUR*/
+	color: #000;
+	background-color: #fff;
 }
 #about {
 	display: flex;
@@ -151,12 +156,13 @@ body {
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
-
+	color: #1a1a1a;
 }
 .quote__author {
 	font-family: Spectral;
 	font-weight: 800;
 	font-size: 22px;
+	color: #333333;
 }
 #services {
 	margin: auto;
@@ -242,7 +248,9 @@ form textarea {
 }
 input[type="submit"] {
 	background-color: #BEB45A;
-	padding: .5em 1em
+	padding: .5em 1em;
+	color: #1a1a1a;
+	border: 2px solid #1a1a1a;
 }
 
 @media all and (max-width: 1180px) {
