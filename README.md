@@ -27,7 +27,9 @@ Rédiger un cahier de recette pour tester un site
 
 ###Soutenance
 
-***Remarques***: Bonne soutenance où l'élève a su détailler les améliorations apportées au projet nina carducci. Les scores obtenus sont plus que satisfaisants et les notions apprise d'amélioration des performances et SEO sont comprises. Félicitations, bon courage pour la suite ! 
+***Remarques***: Bonne soutenance où l'élève a su détailler les améliorations apportées au projet nina carducci. Les scores obtenus sont plus que satisfaisants et les notions apprise d'amélioration des performances et SEO sont comprises.
+Tu peux conclure ta présentation par une phrase simple et ouvrir les questions pour plus de professionnalisme.
+Félicitations, bon courage pour la suite ! 
 
 ## Ressources utilisées
 
