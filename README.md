@@ -23,7 +23,11 @@ Débugger un site web grâce aux Chrome DevTools
 Rédiger un cahier de recette pour tester un site
 
 ## Evaluation 
-***Evaluation***: Vendredei 2 janvier 2026 -> **Projet Validé**
+***Evaluation***: Vendredi 2 janvier 2026 -> **Projet Validé*
+
+###Soutenance
+
+***Remarques***: Bonne soutenance où l'élève a su détailler les améliorations apportées au projet nina carducci. Les scores obtenus sont plus que satisfaisants et les notions apprise d'amélioration des performances et SEO sont comprises. Félicitations, bon courage pour la suite ! 
 
 ## Ressources utilisées
 
