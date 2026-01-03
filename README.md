@@ -22,6 +22,9 @@ Débugger un site web grâce aux Chrome DevTools
 
 Rédiger un cahier de recette pour tester un site
 
+## Evaluation 
+***Evaluation***: Vendredei 2 janvier 2026 -> **Projet Validé**
+
 ## Ressources utilisées
 
 Visual Studio Code - Editeur de codes
